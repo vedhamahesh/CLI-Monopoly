@@ -1,0 +1,901 @@
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Runner: processes
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Chooser: simple
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration suite_name = "search test suite"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/vedha/Documents/Cornell/cs3110/cs3110-finalproject/_build/oUnit-$(suite_name).cache"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration run_gc_full_major = "true"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration display = "true"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration testdata_dir = "none"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration runner = "processes"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration ci = "false"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/vedha/Documents/Cornell/cs3110/cs3110-finalproject/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Using 2 workers maximum.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-38382.eduroam.cornell.edu#01.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-38382.eduroam.cornell.edu#01 started.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-38382.eduroam.cornell.edu#02.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-38382.eduroam.cornell.edu#02 started.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:1:test_get_property2, search test suite:0:Property/BoardFunctions:0:test_get_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:0:Property/BoardFunctions:0:test_get_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:1:test_get_property2, search test suite:0:Property/BoardFunctions:0:test_get_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:0:Property/BoardFunctions:1:test_get_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:1:test_get_property2, search test suite:0:Property/BoardFunctions:0:test_get_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:0:Property/BoardFunctions:0:test_get_property1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:1:test_get_property2, search test suite:0:Property/BoardFunctions:0:test_get_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:0:Property/BoardFunctions:0:test_get_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:1:test_get_property2, search test suite:0:Property/BoardFunctions:0:test_get_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:2:test_get_property3, search test suite:0:Property/BoardFunctions:1:test_get_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:0:Property/BoardFunctions:2:test_get_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:2:test_get_property3, search test suite:0:Property/BoardFunctions:1:test_get_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:0:Property/BoardFunctions:1:test_get_property2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:2:test_get_property3, search test suite:0:Property/BoardFunctions:1:test_get_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:0:Property/BoardFunctions:1:test_get_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:2:test_get_property3, search test suite:0:Property/BoardFunctions:1:test_get_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:3:test_get_property4, search test suite:0:Property/BoardFunctions:2:test_get_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:0:Property/BoardFunctions:3:test_get_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:3:test_get_property4, search test suite:0:Property/BoardFunctions:2:test_get_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:0:Property/BoardFunctions:2:test_get_property3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:3:test_get_property4, search test suite:0:Property/BoardFunctions:2:test_get_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:0:Property/BoardFunctions:2:test_get_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:3:test_get_property4, search test suite:0:Property/BoardFunctions:2:test_get_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:4:test_get_property5, search test suite:0:Property/BoardFunctions:3:test_get_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:0:Property/BoardFunctions:4:test_get_property5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:4:test_get_property5, search test suite:0:Property/BoardFunctions:3:test_get_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:0:Property/BoardFunctions:3:test_get_property4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:4:test_get_property5, search test suite:0:Property/BoardFunctions:3:test_get_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:0:Property/BoardFunctions:3:test_get_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:4:test_get_property5, search test suite:0:Property/BoardFunctions:3:test_get_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:5:test_get_property6, search test suite:0:Property/BoardFunctions:4:test_get_property5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:0:Property/BoardFunctions:5:test_get_property6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:5:test_get_property6, search test suite:0:Property/BoardFunctions:4:test_get_property5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:0:Property/BoardFunctions:4:test_get_property5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:5:test_get_property6, search test suite:0:Property/BoardFunctions:4:test_get_property5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:0:Property/BoardFunctions:4:test_get_property5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:5:test_get_property6, search test suite:0:Property/BoardFunctions:4:test_get_property5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:6:test_get_property7, search test suite:0:Property/BoardFunctions:5:test_get_property6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:0:Property/BoardFunctions:6:test_get_property7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:6:test_get_property7, search test suite:0:Property/BoardFunctions:5:test_get_property6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:0:Property/BoardFunctions:5:test_get_property6 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:6:test_get_property7, search test suite:0:Property/BoardFunctions:5:test_get_property6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:0:Property/BoardFunctions:5:test_get_property6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:6:test_get_property7, search test suite:0:Property/BoardFunctions:5:test_get_property6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:7:test_get_property8, search test suite:0:Property/BoardFunctions:6:test_get_property7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:0:Property/BoardFunctions:7:test_get_property8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:7:test_get_property8, search test suite:0:Property/BoardFunctions:6:test_get_property7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:0:Property/BoardFunctions:6:test_get_property7 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:7:test_get_property8, search test suite:0:Property/BoardFunctions:6:test_get_property7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:0:Property/BoardFunctions:6:test_get_property7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:7:test_get_property8, search test suite:0:Property/BoardFunctions:6:test_get_property7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:8:test_get_property9, search test suite:0:Property/BoardFunctions:7:test_get_property8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:0:Property/BoardFunctions:8:test_get_property9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:8:test_get_property9, search test suite:0:Property/BoardFunctions:7:test_get_property8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:0:Property/BoardFunctions:7:test_get_property8 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:8:test_get_property9, search test suite:0:Property/BoardFunctions:7:test_get_property8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:0:Property/BoardFunctions:7:test_get_property8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:8:test_get_property9, search test suite:0:Property/BoardFunctions:7:test_get_property8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:9:test_property_name, search test suite:0:Property/BoardFunctions:8:test_get_property9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:0:Property/BoardFunctions:9:test_property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:9:test_property_name, search test suite:0:Property/BoardFunctions:8:test_get_property9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:0:Property/BoardFunctions:8:test_get_property9 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:9:test_property_name, search test suite:0:Property/BoardFunctions:8:test_get_property9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:0:Property/BoardFunctions:8:test_get_property9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:9:test_property_name, search test suite:0:Property/BoardFunctions:8:test_get_property9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:10:test_property_owner, search test suite:0:Property/BoardFunctions:9:test_property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:0:Property/BoardFunctions:10:test_property_owner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:10:test_property_owner, search test suite:0:Property/BoardFunctions:9:test_property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:0:Property/BoardFunctions:9:test_property_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:10:test_property_owner, search test suite:0:Property/BoardFunctions:9:test_property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:0:Property/BoardFunctions:9:test_property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:10:test_property_owner, search test suite:0:Property/BoardFunctions:9:test_property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:11:test_property_price, search test suite:0:Property/BoardFunctions:10:test_property_owner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:0:Property/BoardFunctions:10:test_property_owner is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:11:test_property_price, search test suite:0:Property/BoardFunctions:10:test_property_owner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:0:Property/BoardFunctions:10:test_property_owner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:0:Property/BoardFunctions:11:test_property_price, search test suite:0:Property/BoardFunctions:10:test_property_owner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:0:Property/BoardFunctions:11:test_property_price.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:0:test_player_name, search test suite:0:Property/BoardFunctions:11:test_property_price.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:0:test_player_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:0:test_player_name, search test suite:0:Property/BoardFunctions:11:test_property_price.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:0:Property/BoardFunctions:11:test_property_price is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:0:test_player_name, search test suite:0:Property/BoardFunctions:11:test_property_price.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:0:Property/BoardFunctions:11:test_property_price.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:0:test_player_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:0:test_player_name, search test suite:0:Property/BoardFunctions:11:test_property_price.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:0:test_player_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:1:test_player_initial_money, search test suite:1:PlayerFunctions:0:test_player_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:2:test_player_initial_location, search test suite:1:PlayerFunctions:1:test_player_initial_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:1:test_player_initial_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:2:test_player_initial_location, search test suite:1:PlayerFunctions:1:test_player_initial_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:2:test_player_initial_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:2:test_player_initial_location, search test suite:1:PlayerFunctions:1:test_player_initial_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:1:test_player_initial_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:2:test_player_initial_location is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:2:test_player_initial_location, search test suite:1:PlayerFunctions:1:test_player_initial_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:1:test_player_initial_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:2:test_player_initial_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:2:test_player_initial_location, search test suite:1:PlayerFunctions:1:test_player_initial_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:4:test_player_payer_money, search test suite:1:PlayerFunctions:3:test_player_initial_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:3:test_player_initial_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:4:test_player_payer_money, search test suite:1:PlayerFunctions:3:test_player_initial_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:4:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:4:test_player_payer_money, search test suite:1:PlayerFunctions:3:test_player_initial_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:3:test_player_initial_state is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:4:test_player_payer_money, search test suite:1:PlayerFunctions:3:test_player_initial_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:3:test_player_initial_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:4:test_player_payer_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:4:test_player_payer_money, search test suite:1:PlayerFunctions:3:test_player_initial_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:4:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:5:test_player_payer_money, search test suite:1:PlayerFunctions:4:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:6:test_player_receiver_money, search test suite:1:PlayerFunctions:5:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:5:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:6:test_player_receiver_money, search test suite:1:PlayerFunctions:5:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:6:test_player_receiver_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:6:test_player_receiver_money, search test suite:1:PlayerFunctions:5:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:5:test_player_payer_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:6:test_player_receiver_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:6:test_player_receiver_money, search test suite:1:PlayerFunctions:5:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:5:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:6:test_player_receiver_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:6:test_player_receiver_money, search test suite:1:PlayerFunctions:5:test_player_payer_money.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient, search test suite:1:PlayerFunctions:7:test_player_payer_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:7:test_player_payer_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient, search test suite:1:PlayerFunctions:7:test_player_payer_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:7:test_player_payer_insufficient is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient, search test suite:1:PlayerFunctions:7:test_player_payer_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:7:test_player_payer_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient, search test suite:1:PlayerFunctions:7:test_player_payer_insufficient.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:10:test_player_collect_money2, search test suite:1:PlayerFunctions:9:test_player_collect_money1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:9:test_player_collect_money1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:10:test_player_collect_money2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:10:test_player_collect_money2, search test suite:1:PlayerFunctions:9:test_player_collect_money1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:9:test_player_collect_money1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:10:test_player_collect_money2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:10:test_player_collect_money2, search test suite:1:PlayerFunctions:9:test_player_collect_money1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:9:test_player_collect_money1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:10:test_player_collect_money2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:10:test_player_collect_money2, search test suite:1:PlayerFunctions:9:test_player_collect_money1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:12:test_player_go_jail1, search test suite:1:PlayerFunctions:11:test_player_collect_money3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:11:test_player_collect_money3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:12:test_player_go_jail1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:12:test_player_go_jail1, search test suite:1:PlayerFunctions:11:test_player_collect_money3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:11:test_player_collect_money3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:12:test_player_go_jail1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:12:test_player_go_jail1, search test suite:1:PlayerFunctions:11:test_player_collect_money3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:11:test_player_collect_money3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:12:test_player_go_jail1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:12:test_player_go_jail1, search test suite:1:PlayerFunctions:11:test_player_collect_money3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:14:test_player_rolls_dice, search test suite:1:PlayerFunctions:13:test_player_go_jail2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:13:test_player_go_jail2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:14:test_player_rolls_dice, search test suite:1:PlayerFunctions:13:test_player_go_jail2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:14:test_player_rolls_dice.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:14:test_player_rolls_dice, search test suite:1:PlayerFunctions:13:test_player_go_jail2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:13:test_player_go_jail2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:14:test_player_rolls_dice is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:14:test_player_rolls_dice, search test suite:1:PlayerFunctions:13:test_player_go_jail2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:13:test_player_go_jail2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:14:test_player_rolls_dice.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:14:test_player_rolls_dice, search test suite:1:PlayerFunctions:13:test_player_go_jail2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:16:test_players_index_name, search test suite:1:PlayerFunctions:15:test_players_get_player.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:15:test_players_get_player.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:16:test_players_index_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:16:test_players_index_name, search test suite:1:PlayerFunctions:15:test_players_get_player.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:15:test_players_get_player is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:16:test_players_index_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:16:test_players_index_name, search test suite:1:PlayerFunctions:15:test_players_get_player.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:15:test_players_get_player.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:16:test_players_index_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:16:test_players_index_name, search test suite:1:PlayerFunctions:15:test_players_get_player.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1, search test suite:1:PlayerFunctions:17:test_players_index_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:17:test_players_index_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1, search test suite:1:PlayerFunctions:17:test_players_index_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:17:test_players_index_location is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1, search test suite:1:PlayerFunctions:17:test_players_index_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:17:test_players_index_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1, search test suite:1:PlayerFunctions:17:test_players_index_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3, search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3, search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3, search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3, search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3, search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5, search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5, search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5, search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5, search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5, search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7, search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7, search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7, search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7, search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7, search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8, search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9, search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9, search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9, search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9, search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9, search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10, search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1, search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1, search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1, search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1, search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2, search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3, search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3, search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3, search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3, search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4, search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4, search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4, search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5, search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5, search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5, search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5, search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6, search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6, search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6, search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6, search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7, search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7, search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7, search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7, search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8, search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8, search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8, search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8, search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9, search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9, search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9, search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9, search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10, search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10, search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10, search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10, search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11, search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11, search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11, search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11, search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12, search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12, search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12, search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12, search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13, search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13, search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13, search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13, search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14, search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14, search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14, search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14, search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15, search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15, search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15, search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15, search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16, search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16, search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16, search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16, search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17, search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17, search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17, search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17, search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18, search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18, search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18, search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18, search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19, search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19, search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20, search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20, search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20, search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20, search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21, search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22, search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22, search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22, search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22, search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22, search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:50:test_get_property_name1, search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:51:test_get_property_name2, search test suite:1:PlayerFunctions:50:test_get_property_name1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:50:test_get_property_name1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:51:test_get_property_name2, search test suite:1:PlayerFunctions:50:test_get_property_name1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:51:test_get_property_name2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:51:test_get_property_name2, search test suite:1:PlayerFunctions:50:test_get_property_name1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:50:test_get_property_name1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:51:test_get_property_name2, search test suite:1:PlayerFunctions:50:test_get_property_name1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:50:test_get_property_name1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:51:test_get_property_name2, search test suite:1:PlayerFunctions:50:test_get_property_name1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:51:test_get_property_name2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:52:test_get_property_name3, search test suite:1:PlayerFunctions:51:test_get_property_name2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:51:test_get_property_name2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:52:test_get_property_name3, search test suite:1:PlayerFunctions:51:test_get_property_name2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:52:test_get_property_name3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:53:test_update_player_location_same_location, search test suite:1:PlayerFunctions:52:test_get_property_name3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:53:test_update_player_location_same_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:53:test_update_player_location_same_location, search test suite:1:PlayerFunctions:52:test_get_property_name3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:52:test_get_property_name3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:53:test_update_player_location_same_location, search test suite:1:PlayerFunctions:52:test_get_property_name3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:52:test_get_property_name3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:53:test_update_player_location_same_location, search test suite:1:PlayerFunctions:52:test_get_property_name3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1, search test suite:1:PlayerFunctions:53:test_update_player_location_same_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1, search test suite:1:PlayerFunctions:53:test_update_player_location_same_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:53:test_update_player_location_same_location is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1, search test suite:1:PlayerFunctions:53:test_update_player_location_same_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:53:test_update_player_location_same_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1, search test suite:1:PlayerFunctions:53:test_update_player_location_same_location.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2, search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2, search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2, search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2, search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3, search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3, search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3, search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3, search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4, search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4, search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4, search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4, search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5, search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5, search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5, search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:59:test_is_bought1, search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:59:test_is_bought1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:59:test_is_bought1, search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:59:test_is_bought1, search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:59:test_is_bought1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:59:test_is_bought1, search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:59:test_is_bought1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:60:test_is_bought2, search test suite:1:PlayerFunctions:59:test_is_bought1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:61:test_get_location_property1, search test suite:1:PlayerFunctions:60:test_is_bought2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:60:test_is_bought2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:61:test_get_location_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:61:test_get_location_property1, search test suite:1:PlayerFunctions:60:test_is_bought2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:60:test_is_bought2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:61:test_get_location_property1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:61:test_get_location_property1, search test suite:1:PlayerFunctions:60:test_is_bought2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:60:test_is_bought2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:61:test_get_location_property1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:61:test_get_location_property1, search test suite:1:PlayerFunctions:60:test_is_bought2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:63:test_get_location_property3, search test suite:1:PlayerFunctions:62:test_get_location_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:62:test_get_location_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:63:test_get_location_property3, search test suite:1:PlayerFunctions:62:test_get_location_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:63:test_get_location_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:63:test_get_location_property3, search test suite:1:PlayerFunctions:62:test_get_location_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:62:test_get_location_property2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:63:test_get_location_property3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:63:test_get_location_property3, search test suite:1:PlayerFunctions:62:test_get_location_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:62:test_get_location_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:63:test_get_location_property3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:63:test_get_location_property3, search test suite:1:PlayerFunctions:62:test_get_location_property2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:65:test_check_negative, search test suite:1:PlayerFunctions:64:test_get_location_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:64:test_get_location_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:65:test_check_negative.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:65:test_check_negative, search test suite:1:PlayerFunctions:64:test_get_location_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:64:test_get_location_property4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:65:test_check_negative, search test suite:1:PlayerFunctions:64:test_get_location_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:64:test_get_location_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:65:test_check_negative, search test suite:1:PlayerFunctions:64:test_get_location_property4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:65:test_check_negative is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:66:test_change_state, search test suite:1:PlayerFunctions:65:test_check_negative.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:65:test_check_negative.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:66:test_change_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:66:test_change_state, search test suite:1:PlayerFunctions:65:test_check_negative.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:67:test_keep_state, search test suite:1:PlayerFunctions:66:test_change_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:67:test_keep_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:67:test_keep_state, search test suite:1:PlayerFunctions:66:test_change_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:66:test_change_state is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:67:test_keep_state, search test suite:1:PlayerFunctions:66:test_change_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:66:test_change_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:67:test_keep_state is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:67:test_keep_state, search test suite:1:PlayerFunctions:66:test_change_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:67:test_keep_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:68:test_property_action_buy2, search test suite:1:PlayerFunctions:67:test_keep_state.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:69:test_property_action_buy3, search test suite:1:PlayerFunctions:68:test_property_action_buy2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:68:test_property_action_buy2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:69:test_property_action_buy3, search test suite:1:PlayerFunctions:68:test_property_action_buy2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:69:test_property_action_buy3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:69:test_property_action_buy3, search test suite:1:PlayerFunctions:68:test_property_action_buy2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:68:test_property_action_buy2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:69:test_property_action_buy3, search test suite:1:PlayerFunctions:68:test_property_action_buy2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:68:test_property_action_buy2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:69:test_property_action_buy3, search test suite:1:PlayerFunctions:68:test_property_action_buy2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:69:test_property_action_buy3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:70:test_property_action_buy4, search test suite:1:PlayerFunctions:69:test_property_action_buy3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:69:test_property_action_buy3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:70:test_property_action_buy4, search test suite:1:PlayerFunctions:69:test_property_action_buy3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:70:test_property_action_buy4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:71:test_property_action_rent1, search test suite:1:PlayerFunctions:70:test_property_action_buy4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:71:test_property_action_rent1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:71:test_property_action_rent1, search test suite:1:PlayerFunctions:70:test_property_action_buy4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:70:test_property_action_buy4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:71:test_property_action_rent1, search test suite:1:PlayerFunctions:70:test_property_action_buy4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:70:test_property_action_buy4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:71:test_property_action_rent1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:71:test_property_action_rent1, search test suite:1:PlayerFunctions:70:test_property_action_buy4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:71:test_property_action_rent1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:72:test_property_action_rent2, search test suite:1:PlayerFunctions:71:test_property_action_rent1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:73:test_property_action_rent3, search test suite:1:PlayerFunctions:72:test_property_action_rent2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:72:test_property_action_rent2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:73:test_property_action_rent3, search test suite:1:PlayerFunctions:72:test_property_action_rent2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:73:test_property_action_rent3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:73:test_property_action_rent3, search test suite:1:PlayerFunctions:72:test_property_action_rent2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:72:test_property_action_rent2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:73:test_property_action_rent3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:73:test_property_action_rent3, search test suite:1:PlayerFunctions:72:test_property_action_rent2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:72:test_property_action_rent2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:73:test_property_action_rent3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:73:test_property_action_rent3, search test suite:1:PlayerFunctions:72:test_property_action_rent2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:75:test_compare_balance, search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:75:test_compare_balance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:75:test_compare_balance, search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:75:test_compare_balance, search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:75:test_compare_balance is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:75:test_compare_balance, search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:74:test_property_action_rent4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:75:test_compare_balance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:75:test_compare_balance, search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:76:test_compare_balance2, search test suite:1:PlayerFunctions:74:test_property_action_rent4.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:77:test_compare_balance3, search test suite:1:PlayerFunctions:76:test_compare_balance2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:76:test_compare_balance2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:77:test_compare_balance3, search test suite:1:PlayerFunctions:76:test_compare_balance2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:77:test_compare_balance3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:77:test_compare_balance3, search test suite:1:PlayerFunctions:76:test_compare_balance2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:76:test_compare_balance2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:77:test_compare_balance3, search test suite:1:PlayerFunctions:76:test_compare_balance2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:76:test_compare_balance2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:77:test_compare_balance3, search test suite:1:PlayerFunctions:76:test_compare_balance2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:77:test_compare_balance3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:78:test_get_winner, search test suite:1:PlayerFunctions:77:test_compare_balance3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:77:test_compare_balance3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:78:test_get_winner, search test suite:1:PlayerFunctions:77:test_compare_balance3.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:78:test_get_winner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2, search test suite:1:PlayerFunctions:78:test_get_winner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2, search test suite:1:PlayerFunctions:78:test_get_winner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:78:test_get_winner is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2, search test suite:1:PlayerFunctions:78:test_get_winner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:78:test_get_winner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2, search test suite:1:PlayerFunctions:78:test_get_winner.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2, search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2, search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2, search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2, search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2, search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2, search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2, search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:0:test_handle_chance, search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:2:SpecialFunctions:0:test_handle_chance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:0:test_handle_chance, search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:0:test_handle_chance, search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:0:test_handle_chance, search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:1:test_handle_community, search test suite:2:SpecialFunctions:0:test_handle_chance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:2:SpecialFunctions:1:test_handle_community.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:1:test_handle_community, search test suite:2:SpecialFunctions:0:test_handle_chance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:2:SpecialFunctions:0:test_handle_chance is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:1:test_handle_community, search test suite:2:SpecialFunctions:0:test_handle_chance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:2:SpecialFunctions:0:test_handle_chance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:1:test_handle_community, search test suite:2:SpecialFunctions:0:test_handle_chance.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:2:test_inc_tax, search test suite:2:SpecialFunctions:1:test_handle_community.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:2:SpecialFunctions:2:test_inc_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:2:test_inc_tax, search test suite:2:SpecialFunctions:1:test_handle_community.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:2:SpecialFunctions:1:test_handle_community is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:2:test_inc_tax, search test suite:2:SpecialFunctions:1:test_handle_community.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:2:SpecialFunctions:1:test_handle_community.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:2:test_inc_tax, search test suite:2:SpecialFunctions:1:test_handle_community.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:3:test_lux_tax, search test suite:2:SpecialFunctions:2:test_inc_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:2:SpecialFunctions:3:test_lux_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:3:test_lux_tax, search test suite:2:SpecialFunctions:2:test_inc_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:2:SpecialFunctions:2:test_inc_tax is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:3:test_lux_tax, search test suite:2:SpecialFunctions:2:test_inc_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:2:SpecialFunctions:2:test_inc_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:2:SpecialFunctions:3:test_lux_tax, search test suite:2:SpecialFunctions:2:test_inc_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:0:test_houses_none, search test suite:2:SpecialFunctions:3:test_lux_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:2:SpecialFunctions:3:test_lux_tax is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:0:test_houses_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:0:test_houses_none, search test suite:2:SpecialFunctions:3:test_lux_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:2:SpecialFunctions:3:test_lux_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:0:test_houses_none, search test suite:2:SpecialFunctions:3:test_lux_tax.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:1:test_build_house_one, search test suite:3:AuctionFunctions:0:test_houses_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:1:test_build_house_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:1:test_build_house_one, search test suite:3:AuctionFunctions:0:test_houses_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:0:test_houses_none is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:1:test_build_house_one, search test suite:3:AuctionFunctions:0:test_houses_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:0:test_houses_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:1:test_build_house_one, search test suite:3:AuctionFunctions:0:test_houses_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:2:test_property_action_rent with one house, search test suite:3:AuctionFunctions:1:test_build_house_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:2:test_property_action_rent with one house.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:2:test_property_action_rent with one house, search test suite:3:AuctionFunctions:1:test_build_house_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:1:test_build_house_one is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:2:test_property_action_rent with one house, search test suite:3:AuctionFunctions:1:test_build_house_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:1:test_build_house_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:2:test_property_action_rent with one house, search test suite:3:AuctionFunctions:1:test_build_house_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:3:test_build_house_multiple, search test suite:3:AuctionFunctions:2:test_property_action_rent with one house.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:3:test_build_house_multiple.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:3:test_build_house_multiple, search test suite:3:AuctionFunctions:2:test_property_action_rent with one house.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:2:test_property_action_rent with one house is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:3:test_build_house_multiple, search test suite:3:AuctionFunctions:2:test_property_action_rent with one house.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:2:test_property_action_rent with one house.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:3:test_build_house_multiple, search test suite:3:AuctionFunctions:2:test_property_action_rent with one house.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses, search test suite:3:AuctionFunctions:3:test_build_house_multiple.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses, search test suite:3:AuctionFunctions:3:test_build_house_multiple.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:3:test_build_house_multiple is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses, search test suite:3:AuctionFunctions:3:test_build_house_multiple.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:3:test_build_house_multiple.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses, search test suite:3:AuctionFunctions:3:test_build_house_multiple.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four, search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four, search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four, search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four, search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:6:test_hotel_none, search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:6:test_hotel_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:6:test_hotel_none, search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:6:test_hotel_none, search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:6:test_hotel_none, search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:7:test_hotel_build_none1, search test suite:3:AuctionFunctions:6:test_hotel_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:7:test_hotel_build_none1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:7:test_hotel_build_none1, search test suite:3:AuctionFunctions:6:test_hotel_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:6:test_hotel_none is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:7:test_hotel_build_none1, search test suite:3:AuctionFunctions:6:test_hotel_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:6:test_hotel_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:7:test_hotel_build_none1, search test suite:3:AuctionFunctions:6:test_hotel_none.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:8:test_hotel_build_none2, search test suite:3:AuctionFunctions:7:test_hotel_build_none1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:8:test_hotel_build_none2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:8:test_hotel_build_none2, search test suite:3:AuctionFunctions:7:test_hotel_build_none1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:7:test_hotel_build_none1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:8:test_hotel_build_none2, search test suite:3:AuctionFunctions:7:test_hotel_build_none1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:7:test_hotel_build_none1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:8:test_hotel_build_none2, search test suite:3:AuctionFunctions:7:test_hotel_build_none1.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:9:test_hotel_build_hotel, search test suite:3:AuctionFunctions:8:test_hotel_build_none2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:9:test_hotel_build_hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:9:test_hotel_build_hotel, search test suite:3:AuctionFunctions:8:test_hotel_build_none2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:8:test_hotel_build_none2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:9:test_hotel_build_hotel, search test suite:3:AuctionFunctions:8:test_hotel_build_none2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:8:test_hotel_build_none2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:9:test_hotel_build_hotel, search test suite:3:AuctionFunctions:8:test_hotel_build_none2.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel, search test suite:3:AuctionFunctions:9:test_hotel_build_hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:9:test_hotel_build_hotel is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel, search test suite:3:AuctionFunctions:9:test_hotel_build_hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:9:test_hotel_build_hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel, search test suite:3:AuctionFunctions:9:test_hotel_build_hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one, search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one, search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one, search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one, search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:12:test_find_property_house unowned, search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:12:test_find_property_house unowned, search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name, search test suite:3:AuctionFunctions:12:test_find_property_house unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:12:test_find_property_house unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name, search test suite:3:AuctionFunctions:12:test_find_property_house unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name, search test suite:3:AuctionFunctions:12:test_find_property_house unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:12:test_find_property_house unowned is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name, search test suite:3:AuctionFunctions:12:test_find_property_house unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:12:test_find_property_house unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name, search test suite:3:AuctionFunctions:12:test_find_property_house unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times, search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times, search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times, search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times, search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:14:test_find_property_house find once is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times, search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned, search test suite:3:AuctionFunctions:14:test_find_property_house find once.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses, search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses, search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses, search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses, search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses, search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name, search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:19:test_find_property_house find 1 , search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Start test search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:19:test_find_property_house find 1 .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:19:test_find_property_house find 1 , search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:19:test_find_property_house find 1  is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:19:test_find_property_house find 1 , search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: Test search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:19:test_find_property_house find 1 .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:19:test_find_property_house find 1 , search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#02 I: End test search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Still 2 tests running : search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple , search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 2 tests running: search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple , search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Start test search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Still 1 tests running : search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 1 tests running: search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: Test search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple  is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Still 1 tests running : search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 1 tests running: search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#01 I: End test search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Still 1 tests running : search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 1 tests running: search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: 0 tests running: .
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-38382.eduroam.cornell.edu#02 has ended.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-38382.eduroam.cornell.edu#01 has ended.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Used 2 worker during test execution.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Run 59 tests with shard dhcp-vl2041-38382.eduroam.cornell.edu#02.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Run 60 tests with shard dhcp-vl2041-38382.eduroam.cornell.edu#01.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-38382.eduroam.cornell.edu#02, 4 times.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-38382.eduroam.cornell.edu#01, 1 times.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: ==============
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Summary:
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:20:test_find_property_house try find multiple  is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:18:test_find_property_hotel find incorrect property_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:19:test_find_property_house find 1  is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:16:test_find_property_hotel unowned is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:17:test_find_property_hotel insufficient number of houses is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:14:test_find_property_house find once is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:15:test_find_property_house find multiple times is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:13:test_find_property_house find incorrect property_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:12:test_find_property_house unowned is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:11:test_hotel_try_more_than_one is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:10:test_property_action_rent with hotel is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:9:test_hotel_build_hotel is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:8:test_hotel_build_none2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:7:test_hotel_build_none1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:6:test_hotel_none is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:5:test_build_house_try_more_than_four is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:4:test_property_action_rent with multiple houses is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:3:test_build_house_multiple is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:2:test_property_action_rent with one house is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:1:test_build_house_one is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:3:AuctionFunctions:0:test_houses_none is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:2:SpecialFunctions:3:test_lux_tax is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:2:SpecialFunctions:2:test_inc_tax is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:2:SpecialFunctions:1:test_handle_community is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:2:SpecialFunctions:0:test_handle_chance is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:81:test_create_property_statistics own all properties board2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:80:test_create_property_statistics own no properties board2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:79:test_create_property_statistics own two properties board2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:78:test_get_winner is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:77:test_compare_balance3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:76:test_compare_balance2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:74:test_property_action_rent4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:75:test_compare_balance is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:73:test_property_action_rent3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:72:test_property_action_rent2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:71:test_property_action_rent1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:70:test_property_action_buy4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:69:test_property_action_buy3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:68:test_property_action_buy2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:67:test_keep_state is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:66:test_change_state is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:65:test_check_negative is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:64:test_get_location_property4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:63:test_get_location_property3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:62:test_get_location_property2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:61:test_get_location_property1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:60:test_is_bought2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:59:test_is_bought1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:58:test_update_player_location_multiple_moves5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:57:test_update_player_location_multiple_moves4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:56:test_update_player_location_multiple_moves3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:55:test_update_player_location_multiple_moves2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:54:test_update_player_location_multiple_moves1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:53:test_update_player_location_same_location is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:52:test_get_property_name3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:51:test_get_property_name2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:50:test_get_property_name1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:49:test_move_mutliple_moves22 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:48:test_move_mutliple_moves21 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:47:test_move_mutliple_moves20 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:46:test_move_mutliple_moves19 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:45:test_move_mutliple_moves18 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:44:test_move_mutliple_moves17 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:43:test_move_mutliple_moves16 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:42:test_move_mutliple_moves15 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:41:test_move_mutliple_moves14 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:40:test_move_mutliple_moves13 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:39:test_move_mutliple_moves12 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:38:test_move_mutliple_moves11 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:37:test_move_mutliple_moves10 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:36:test_move_mutliple_moves9 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:35:test_move_mutliple_moves8 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:34:test_move_mutliple_moves7 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:33:test_move_mutliple_moves6 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:32:test_move_mutliple_moves5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:31:test_move_mutliple_moves4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:30:test_move_mutliple_moves3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:29:test_move_mutliple_moves2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:28:test_move_mutliple_moves1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:27:test_move_counter_clockwise10 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:26:test_move_counter_clockwise9 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:25:test_move_counter_clockwise8 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:24:test_move_counter_clockwise7 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:23:test_move_counter_clockwise6 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:22:test_move_counter_clockwise5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:21:test_move_counter_clockwise4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:20:test_move_counter_clockwise3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:19:test_move_counter_clockwise2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:18:test_move_counter_clockwise1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:17:test_players_index_location is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:16:test_players_index_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:15:test_players_get_player is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:14:test_player_rolls_dice is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:13:test_player_go_jail2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:12:test_player_go_jail1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:11:test_player_collect_money3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:10:test_player_collect_money2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:9:test_player_collect_money1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:8:test_player_receiver_insufficient is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:7:test_player_payer_insufficient is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:6:test_player_receiver_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:5:test_player_payer_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:4:test_player_payer_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:3:test_player_initial_state is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:2:test_player_initial_location is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:1:test_player_initial_money is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:1:PlayerFunctions:0:test_player_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:11:test_property_price is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:10:test_property_owner is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:9:test_property_name is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:8:test_get_property9 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:7:test_get_property8 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:6:test_get_property7 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:5:test_get_property6 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:4:test_get_property5 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:3:test_get_property4 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:2:test_get_property3 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:1:test_get_property2 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Test search test suite:0:Property/BoardFunctions:0:test_get_property1 is successful.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Ran: 119 tests in: 0.16 seconds.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Cases: 119.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Tried: 119.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Errors: 0.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Failures: 0.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Skip: 0.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Todo: 0.
+2023-12-10T18:45:16+00:00 dhcp-vl2041-38382.eduroam.cornell.edu#00 I: Timeout: 0.

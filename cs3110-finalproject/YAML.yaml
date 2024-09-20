@@ -1,0 +1,29 @@
+---
+# Members of your group.
+group:
+  - name: Michelle Mazzu
+    netid: mim54
+  - name: Vedha Mahesh
+    netid: vm326
+  - name: Chris Lahoti
+    netid: cjl297
+  - name: Grant Zhao
+    netid: gz233
+# Your PM.
+pm:
+  name: Bryan Lee
+  netid: bdl55
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Monopocamly"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/vm326/cs3110-finalproject.git"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a rendition of the game Monopoly. It features a graphical 
+  board representation in terminal that is displayed after each player's action.
+  Players are able to move around the board, buy properties, collect rent, and
+  (if unlucky) go to jail! 

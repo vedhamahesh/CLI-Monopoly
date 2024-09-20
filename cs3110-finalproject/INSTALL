@@ -1,0 +1,5 @@
+Installation Instructions
+1. Download the zip file
+2. Extract it to a directory
+3. From this directory, run make build
+4. Finally, run make play and follow the instructions on the screen

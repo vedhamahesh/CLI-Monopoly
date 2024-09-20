@@ -1,0 +1,83 @@
+(lang dune 3.10)
+(name Monopoly)
+(sections (lib .) (libexec .) (doc ../../doc/Monopoly))
+(files
+ (lib
+  (META
+   auction.ml
+   auction.mli
+   board.ml
+   board.mli
+   dune-package
+   monopoly.a
+   monopoly.cma
+   monopoly.cmi
+   monopoly.cmt
+   monopoly.cmx
+   monopoly.cmxa
+   monopoly.ml
+   monopoly__Auction.cmi
+   monopoly__Auction.cmt
+   monopoly__Auction.cmti
+   monopoly__Auction.cmx
+   monopoly__Board.cmi
+   monopoly__Board.cmt
+   monopoly__Board.cmti
+   monopoly__Board.cmx
+   monopoly__Player.cmi
+   monopoly__Player.cmt
+   monopoly__Player.cmti
+   monopoly__Player.cmx
+   monopoly__Special.cmi
+   monopoly__Special.cmt
+   monopoly__Special.cmti
+   monopoly__Special.cmx
+   opam
+   player.ml
+   player.mli
+   special.ml
+   special.mli))
+ (libexec (monopoly.cmxs))
+ (doc (README)))
+(library
+ (name Monopoly)
+ (kind normal)
+ (archives (byte monopoly.cma) (native monopoly.cmxa))
+ (plugins (byte monopoly.cma) (native monopoly.cmxs))
+ (native_archives monopoly.a)
+ (requires str)
+ (main_module_name Monopoly)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name monopoly)
+     (visibility public)
+     (kind alias)
+     (source (path Monopoly) (impl (path monopoly.ml-gen))))
+    (name Monopoly)
+    (modules
+     (module
+      (obj_name monopoly__Auction)
+      (visibility public)
+      (source
+       (path Auction)
+       (intf (path auction.mli))
+       (impl (path auction.ml))))
+     (module
+      (obj_name monopoly__Board)
+      (visibility public)
+      (source (path Board) (intf (path board.mli)) (impl (path board.ml))))
+     (module
+      (obj_name monopoly__Player)
+      (visibility public)
+      (source (path Player) (intf (path player.mli)) (impl (path player.ml))))
+     (module
+      (obj_name monopoly__Special)
+      (visibility public)
+      (source
+       (path Special)
+       (intf (path special.mli))
+       (impl (path special.ml))))))
+   (wrapped true))))
